@@ -23,5 +23,3 @@ A simple app that fetching data from [News API](https://newsapi.org/).
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too!
 
 **Do you have any suggestions on how I could improve this project overall? Let me know! I'd love to hear your feedback!🙆🏼‍♀️**
-
-<br>
